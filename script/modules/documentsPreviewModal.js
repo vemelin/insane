@@ -23,18 +23,14 @@ class DocumentsSlider {
 
   eventListener() {
     this.slideWrapperSlide.forEach((el, i) => {
-      el.addEventListener('click', (e) => {
+      el.addEventListener('click', () => {
         this.popupTransparency.style.visibility = 'visible';
         this.slideActive = i;        
-        console.log(e.target);
-        if (e.target.classList.contains('popup-transparency')) {
-          this.popupTransparency.style.visibility = 'hidden';
-        }
-        this.render();
+        this.render();                
       });
     });
 
-    this.popupTransparencyClose.addEventListener('click', (e) => {
+    this.popupTransparencyClose.addEventListener('click', () => {
       this.popupTransparency.style.visibility = 'hidden';
       this.slideActive = 0;
       this.slideAfterAll = 0;

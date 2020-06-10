@@ -1,6 +1,6 @@
 const styles = () => {
   const style = document.createElement('style');
-  style.id = 'accordion-styles';
+  style.id = 'main-navigation-styles';
   style.type = 'text/css';
   style.textContent = `
     /* Main navigation */

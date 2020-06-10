@@ -22,7 +22,7 @@ import smoothScroll from './modules/smoothScroll';
 import expandList from './modules/expandList';
 import regExpPhoneMask from './modules/regExpPhoneMask';
 import eulaModal from './modules/eulaModal';
-import hintPopup from './modules/hintPopup';
+import problems from './modules/hintPopup';
 import repairModal from './modules/repairModal';
 import repairModalContent from './modules/repairModalContent';
 import portfolioSlider from './modules/portfolioSlider';
@@ -39,6 +39,46 @@ import accordion from './modules/faqBlock';
 import ourPartners from './modules/ourPartners';
 import uploadServicesData from './modules/uploadServicesData';
 import formParsing from './modules/ajaxRequests';
+import repairViews from './modules/repairViews';
+import formula from './modules/formula';
+
+
+let windowWidth = window.innerWidth;
+window.addEventListener(`resize`, () => {
+  windowWidth = window.innerWidth;
+  burgerMenu(windowWidth);
+  formula(windowWidth);
+  problems(windowWidth);
+  documentSlider(windowWidth);
+  if (windowWidth > 1024) {
+    desingBoolet();
+  } else {
+    desingSliders({
+      block: '#designs',
+      wrapper: '.designs-slider-wrap',
+      nav: '.designs-nav__item',
+      wrapperSlide: '.designs-slider',
+      arrowLeft: '#design_left',
+      arrowRight: '#design_right',
+      sliderCountCurrent: '.slider-counter-content__current',
+      sliderCountTotal: '.slider-counter-content__total',
+    });
+  }
+  desingSliders({
+    block: '.popup-design',
+    wrapper: '.popup-dialog-design',
+    nav: '.designs-nav__item',
+    wrapperSlide: '.popup-design-slider',
+    arrowLeft: '#popup_design_left',
+    arrowRight: '#popup_design_right',
+    sliderCountCurrent: '.slider-counter-content__current',
+    sliderCountTotal: '.slider-counter-content__total',
+    popupText: '.popup-design-text',
+    popupTextActiveClass: 'visible-content-block',
+    dispFlex: '.popup-design-slider-wrap',
+
+  });
+});
 
 
 // Header Phone Switcher — Phone list
@@ -54,7 +94,7 @@ regExpPhoneMask();
 //  End User License Agreement (EULA) - Modal Window
 eulaModal();
 // Tooltip popup
-hintPopup();
+problems(windowWidth);
 // Type of Repairs block
 repairModal();
 repairModalContent();
@@ -87,3 +127,8 @@ ourPartnersBlock.start();
 uploadServicesData();
 // Send Form through AJAX
 formParsing();
+//Repair views
+const sliderRepair = new repairViews();
+sliderRepair.start();
+//Formula
+formula(windowWidth);
