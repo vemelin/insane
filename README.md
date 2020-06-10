@@ -1,2 +1,2 @@
-# insane.github.io
+# insane
 Insane Diploma
