@@ -75,7 +75,6 @@ const formula = (size) => {
     formulaSlider.style.cssText = `
       display: flex;
       align-items: flex-start;
-      /*overflow: hidden;*/
       will-change: transform;
     `;
     formulaItem.forEach(element => {

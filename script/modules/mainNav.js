@@ -16,11 +16,13 @@ const mainNav = () => {
 
   styles();
 
-  const open = document.querySelector('.menu'),
+  const open = document.querySelectorAll('.menu'),
     modal = document.querySelector('.popup-dialog-menu'),
     wrapper = document.querySelector('.popup-menu');
 
-  open.addEventListener('click', () => modal.classList.toggle('selected'));
+  open[1].style.cssText = `display: block;`;
+  open.forEach(element => element.addEventListener('click', () => modal.classList.toggle('selected')));
+  // open.addEventListener('click', () => modal.classList.toggle('selected'));
 
   modal.addEventListener('click', e => {
     if (e.target.classList.contains('close-menu')) {

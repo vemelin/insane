@@ -98,28 +98,25 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _modules_headerPhoneSwitcher__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./modules/headerPhoneSwitcher */ "./script/modules/headerPhoneSwitcher.js");
 /* harmony import */ var _modules_mainNav__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./modules/mainNav */ "./script/modules/mainNav.js");
 /* harmony import */ var _modules_smoothScroll__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./modules/smoothScroll */ "./script/modules/smoothScroll.js");
-/* harmony import */ var _modules_expandList__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./modules/expandList */ "./script/modules/expandList.js");
-/* harmony import */ var _modules_regExpPhoneMask__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./modules/regExpPhoneMask */ "./script/modules/regExpPhoneMask.js");
-/* harmony import */ var _modules_eulaModal__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./modules/eulaModal */ "./script/modules/eulaModal.js");
-/* harmony import */ var _modules_hintPopup__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./modules/hintPopup */ "./script/modules/hintPopup.js");
-/* harmony import */ var _modules_repairModal__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./modules/repairModal */ "./script/modules/repairModal.js");
-/* harmony import */ var _modules_repairModalContent__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./modules/repairModalContent */ "./script/modules/repairModalContent.js");
-/* harmony import */ var _modules_portfolioSlider__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./modules/portfolioSlider */ "./script/modules/portfolioSlider.js");
-/* harmony import */ var _modules_sliderModal__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./modules/sliderModal */ "./script/modules/sliderModal.js");
-/* harmony import */ var _modules_documentsModule__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./modules/documentsModule */ "./script/modules/documentsModule.js");
-/* harmony import */ var _modules_documentsPreviewModal__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ./modules/documentsPreviewModal */ "./script/modules/documentsPreviewModal.js");
-/* harmony import */ var _modules_issuesBlock__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ./modules/issuesBlock */ "./script/modules/issuesBlock.js");
-/* harmony import */ var _modules_tabSlider__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ./modules/tabSlider */ "./script/modules/tabSlider.js");
-/* harmony import */ var _modules_sliderTabSwitcher__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ./modules/sliderTabSwitcher */ "./script/modules/sliderTabSwitcher.js");
-/* harmony import */ var _modules_advicesBlock__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! ./modules/advicesBlock */ "./script/modules/advicesBlock.js");
-/* harmony import */ var _modules_testimonialsBlock__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! ./modules/testimonialsBlock */ "./script/modules/testimonialsBlock.js");
-/* harmony import */ var _modules_howWeWork__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(/*! ./modules/howWeWork */ "./script/modules/howWeWork.js");
-/* harmony import */ var _modules_faqBlock__WEBPACK_IMPORTED_MODULE_19__ = __webpack_require__(/*! ./modules/faqBlock */ "./script/modules/faqBlock.js");
-/* harmony import */ var _modules_ourPartners__WEBPACK_IMPORTED_MODULE_20__ = __webpack_require__(/*! ./modules/ourPartners */ "./script/modules/ourPartners.js");
-/* harmony import */ var _modules_uploadServicesData__WEBPACK_IMPORTED_MODULE_21__ = __webpack_require__(/*! ./modules/uploadServicesData */ "./script/modules/uploadServicesData.js");
-/* harmony import */ var _modules_ajaxRequests__WEBPACK_IMPORTED_MODULE_22__ = __webpack_require__(/*! ./modules/ajaxRequests */ "./script/modules/ajaxRequests.js");
-/* harmony import */ var _modules_repairViews__WEBPACK_IMPORTED_MODULE_23__ = __webpack_require__(/*! ./modules/repairViews */ "./script/modules/repairViews.js");
-/* harmony import */ var _modules_formula__WEBPACK_IMPORTED_MODULE_24__ = __webpack_require__(/*! ./modules/formula */ "./script/modules/formula.js");
+/* harmony import */ var _modules_regExpPhoneMask__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./modules/regExpPhoneMask */ "./script/modules/regExpPhoneMask.js");
+/* harmony import */ var _modules_eulaModal__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./modules/eulaModal */ "./script/modules/eulaModal.js");
+/* harmony import */ var _modules_hintPopup__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./modules/hintPopup */ "./script/modules/hintPopup.js");
+/* harmony import */ var _modules_repairModal__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./modules/repairModal */ "./script/modules/repairModal.js");
+/* harmony import */ var _modules_portfolioSlider__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./modules/portfolioSlider */ "./script/modules/portfolioSlider.js");
+/* harmony import */ var _modules_portfolioModal__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./modules/portfolioModal */ "./script/modules/portfolioModal.js");
+/* harmony import */ var _modules_documentsModule__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./modules/documentsModule */ "./script/modules/documentsModule.js");
+/* harmony import */ var _modules_documentsPreviewModal__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./modules/documentsPreviewModal */ "./script/modules/documentsPreviewModal.js");
+/* harmony import */ var _modules_advicesBlock__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./modules/advicesBlock */ "./script/modules/advicesBlock.js");
+/* harmony import */ var _modules_testimonialsBlock__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ./modules/testimonialsBlock */ "./script/modules/testimonialsBlock.js");
+/* harmony import */ var _modules_howWeWork__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ./modules/howWeWork */ "./script/modules/howWeWork.js");
+/* harmony import */ var _modules_faqBlock__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ./modules/faqBlock */ "./script/modules/faqBlock.js");
+/* harmony import */ var _modules_ourPartners__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ./modules/ourPartners */ "./script/modules/ourPartners.js");
+/* harmony import */ var _modules_ajaxRequests__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! ./modules/ajaxRequests */ "./script/modules/ajaxRequests.js");
+/* harmony import */ var _modules_repairViews__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! ./modules/repairViews */ "./script/modules/repairViews.js");
+/* harmony import */ var _modules_repair_render_content__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(/*! ./modules/repair-render-content */ "./script/modules/repair-render-content.js");
+/* harmony import */ var _modules_formula__WEBPACK_IMPORTED_MODULE_19__ = __webpack_require__(/*! ./modules/formula */ "./script/modules/formula.js");
+/* harmony import */ var _modules_tabs__WEBPACK_IMPORTED_MODULE_20__ = __webpack_require__(/*! ./modules/tabs */ "./script/modules/tabs.js");
+/* harmony import */ var _modules_desing_pagination_boolet__WEBPACK_IMPORTED_MODULE_21__ = __webpack_require__(/*! ./modules/desing-pagination-boolet */ "./script/modules/desing-pagination-boolet.js");
 // Polyfills, that helps solve cross-browser compatibility for IE11 agent
 // import 'url-polyfill';
 // import "regenerator-runtime/runtime";
@@ -159,21 +156,18 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-
-
-
 let windowWidth = window.innerWidth;
 window.addEventListener(`resize`, () => {
-  windowWidth = window.innerWidth;
-  burgerMenu(windowWidth);
-  Object(_modules_formula__WEBPACK_IMPORTED_MODULE_24__["default"])(windowWidth);
-  Object(_modules_hintPopup__WEBPACK_IMPORTED_MODULE_6__["default"])(windowWidth);
+  windowWidth = window.innerWidth; // burgerMenu(windowWidth);
+
+  Object(_modules_formula__WEBPACK_IMPORTED_MODULE_19__["default"])(windowWidth);
+  Object(_modules_hintPopup__WEBPACK_IMPORTED_MODULE_5__["default"])(windowWidth);
   documentSlider(windowWidth);
 
   if (windowWidth > 1024) {
-    desingBoolet();
+    Object(_modules_desing_pagination_boolet__WEBPACK_IMPORTED_MODULE_21__["desingBoolet"])();
   } else {
-    desingSliders({
+    Object(_modules_desing_pagination_boolet__WEBPACK_IMPORTED_MODULE_21__["desingSliders"])({
       block: '#designs',
       wrapper: '.designs-slider-wrap',
       nav: '.designs-nav__item',
@@ -185,7 +179,7 @@ window.addEventListener(`resize`, () => {
     });
   }
 
-  desingSliders({
+  Object(_modules_desing_pagination_boolet__WEBPACK_IMPORTED_MODULE_21__["desingSliders"])({
     block: '.popup-design',
     wrapper: '.popup-dialog-design',
     nav: '.designs-nav__item',
@@ -198,58 +192,123 @@ window.addEventListener(`resize`, () => {
     popupTextActiveClass: 'visible-content-block',
     dispFlex: '.popup-design-slider-wrap'
   });
+});
+document.addEventListener('DOMContentLoaded', () => {
+  //   // telMenu();
+  //   // burgerMenu(windowWidth);
+  //   // smoothScrolling();
+  //   // popupRepairTypes();
+  //   // telMask();
+  //   // linkPrivacy();
+  //   formula(windowWidth);
+  //   problems(windowWidth);
+  //   const sliderRepair = new repairViews();
+  //   sliderRepair.start();
+  //   accordion();
+  //   // documentSlider(windowWidth);
+  //   // const sliderTransparency = new slider();
+  //   // sliderTransparency.start();
+  //   // buttonWide();
+  //   // const partners = new Carousel();
+  //   // // partners.start();
+  //   // sliderReviews();
+  //   // inspirationalPortfolio();
+  //   // inspirationalPortfolioPopup();
+  Object(_modules_tabs__WEBPACK_IMPORTED_MODULE_20__["default"])({
+    block: '#designs',
+    blockWrapper: '.nav',
+    blockSlides: '#designs-list',
+    arrowRight: '#nav-arrow-designs_right',
+    arrowLeft: '#nav-arrow-designs_left'
+  });
+  Object(_modules_tabs__WEBPACK_IMPORTED_MODULE_20__["default"])({
+    block: '#scheme',
+    blockWrapper: '.nav',
+    blockSlides: '#scheme-list',
+    arrowRight: '#nav-arrow-scheme_right',
+    arrowLeft: '#nav-arrow-scheme_left'
+  });
+  Object(_modules_tabs__WEBPACK_IMPORTED_MODULE_20__["default"])({
+    block: '.popup-dialog-design',
+    blockWrapper: '.nav-designs',
+    blockSlides: '#nav-list-popup-designs',
+    arrowRight: '#nav-arrow-popup-designs_right',
+    arrowLeft: '#nav-arrow-popup-designs_left'
+  }); // scheme();
+
+  if (windowWidth > 1024) {
+    Object(_modules_desing_pagination_boolet__WEBPACK_IMPORTED_MODULE_21__["desingBoolet"])();
+  } else {
+    Object(_modules_desing_pagination_boolet__WEBPACK_IMPORTED_MODULE_21__["desingSliders"])({
+      block: '#designs',
+      wrapper: '.designs-slider-wrap',
+      nav: '.designs-nav__item',
+      wrapperSlide: '.designs-slider',
+      arrowLeft: '#design_left',
+      arrowRight: '#design_right',
+      sliderCountCurrent: '.slider-counter-content__current',
+      sliderCountTotal: '.slider-counter-content__total'
+    });
+  }
+
+  Object(_modules_desing_pagination_boolet__WEBPACK_IMPORTED_MODULE_21__["desingSliders"])({
+    block: '.popup-design',
+    wrapper: '.popup-dialog-design',
+    nav: '.designs-nav__item',
+    wrapperSlide: '.popup-design-slider',
+    arrowLeft: '#popup_design_left',
+    arrowRight: '#popup_design_right',
+    sliderCountCurrent: '.slider-counter-content__current',
+    sliderCountTotal: '.slider-counter-content__total',
+    popupText: '.popup-design-text',
+    popupTextActiveClass: 'visible-content-block',
+    dispFlex: '.popup-design-slider-wrap'
+  }); // keyDownEsc();
+
+  Object(_modules_desing_pagination_boolet__WEBPACK_IMPORTED_MODULE_21__["desingPopup"])(); // ajaxPost();
+  // get();
 }); // Header Phone Switcher — Phone list
 
 Object(_modules_headerPhoneSwitcher__WEBPACK_IMPORTED_MODULE_0__["default"])(); // Main Navigation
 
 Object(_modules_mainNav__WEBPACK_IMPORTED_MODULE_1__["default"])(); // Smooth Scroll
 
-Object(_modules_smoothScroll__WEBPACK_IMPORTED_MODULE_2__["default"])(); // Overview all available list
+Object(_modules_smoothScroll__WEBPACK_IMPORTED_MODULE_2__["default"])(); // Regular Expression Mask of phone number - recall block
 
-Object(_modules_expandList__WEBPACK_IMPORTED_MODULE_3__["default"])(); // Regular Expression Mask of phone number - recall block
+Object(_modules_regExpPhoneMask__WEBPACK_IMPORTED_MODULE_3__["default"])(); //  End User License Agreement (EULA) - Modal Window
 
-Object(_modules_regExpPhoneMask__WEBPACK_IMPORTED_MODULE_4__["default"])(); //  End User License Agreement (EULA) - Modal Window
+Object(_modules_eulaModal__WEBPACK_IMPORTED_MODULE_4__["default"])(); // Tooltip popup
 
-Object(_modules_eulaModal__WEBPACK_IMPORTED_MODULE_5__["default"])(); // Tooltip popup
+Object(_modules_hintPopup__WEBPACK_IMPORTED_MODULE_5__["default"])(windowWidth); // Type of Repairs block
 
-Object(_modules_hintPopup__WEBPACK_IMPORTED_MODULE_6__["default"])(windowWidth); // Type of Repairs block
+Object(_modules_repairModal__WEBPACK_IMPORTED_MODULE_6__["default"])(); // Portfolio block slider
 
-Object(_modules_repairModal__WEBPACK_IMPORTED_MODULE_7__["default"])();
-Object(_modules_repairModalContent__WEBPACK_IMPORTED_MODULE_8__["default"])(); // Portfolio block slider
+Object(_modules_portfolioSlider__WEBPACK_IMPORTED_MODULE_7__["default"])();
+Object(_modules_portfolioModal__WEBPACK_IMPORTED_MODULE_8__["default"])(); // Documents Block
 
-Object(_modules_portfolioSlider__WEBPACK_IMPORTED_MODULE_9__["default"])(); // Modal Window block slider
+Object(_modules_documentsModule__WEBPACK_IMPORTED_MODULE_9__["default"])();
+const docsModal = new _modules_documentsPreviewModal__WEBPACK_IMPORTED_MODULE_10__["default"]();
+docsModal.start(); // Get advices / consultations
 
-Object(_modules_sliderModal__WEBPACK_IMPORTED_MODULE_10__["default"])(); // Documents Block
+Object(_modules_advicesBlock__WEBPACK_IMPORTED_MODULE_11__["default"])(); // Testimonials Block
 
-Object(_modules_documentsModule__WEBPACK_IMPORTED_MODULE_11__["default"])();
-const docsModal = new _modules_documentsPreviewModal__WEBPACK_IMPORTED_MODULE_12__["default"]();
-docsModal.start(); // Blocks with issues
+Object(_modules_testimonialsBlock__WEBPACK_IMPORTED_MODULE_12__["default"])(); // How we work block
 
-Object(_modules_issuesBlock__WEBPACK_IMPORTED_MODULE_13__["default"])(); // Tabs with slider block
+Object(_modules_howWeWork__WEBPACK_IMPORTED_MODULE_13__["default"])(); // FAQ - Accordion block
 
-Object(_modules_tabSlider__WEBPACK_IMPORTED_MODULE_14__["default"])(); // Slider with switching tabs
+Object(_modules_faqBlock__WEBPACK_IMPORTED_MODULE_14__["default"])(); // Our Partners block
 
-Object(_modules_sliderTabSwitcher__WEBPACK_IMPORTED_MODULE_15__["default"])(); // Get advices / consultations
+const ourPartnersBlock = new _modules_ourPartners__WEBPACK_IMPORTED_MODULE_15__["default"]();
+ourPartnersBlock.start(); // Send Form through AJAX
 
-Object(_modules_advicesBlock__WEBPACK_IMPORTED_MODULE_16__["default"])(); // Testimonials Block
+Object(_modules_ajaxRequests__WEBPACK_IMPORTED_MODULE_16__["default"])(); //Repair views
 
-Object(_modules_testimonialsBlock__WEBPACK_IMPORTED_MODULE_17__["default"])(); // How we work block
-
-Object(_modules_howWeWork__WEBPACK_IMPORTED_MODULE_18__["default"])(); // FAQ - Accordion block
-
-Object(_modules_faqBlock__WEBPACK_IMPORTED_MODULE_19__["default"])(); // Our Partners block
-
-const ourPartnersBlock = new _modules_ourPartners__WEBPACK_IMPORTED_MODULE_20__["default"]();
-ourPartnersBlock.start(); // Upload Services and Prices Data
-
-Object(_modules_uploadServicesData__WEBPACK_IMPORTED_MODULE_21__["default"])(); // Send Form through AJAX
-
-Object(_modules_ajaxRequests__WEBPACK_IMPORTED_MODULE_22__["default"])(); //Repair views
-
-const sliderRepair = new _modules_repairViews__WEBPACK_IMPORTED_MODULE_23__["default"]();
+const sliderRepair = new _modules_repairViews__WEBPACK_IMPORTED_MODULE_17__["default"]();
 sliderRepair.start(); //Formula
 
-Object(_modules_formula__WEBPACK_IMPORTED_MODULE_24__["default"])(windowWidth);
+Object(_modules_formula__WEBPACK_IMPORTED_MODULE_19__["default"])(windowWidth); //Render Content
+
+Object(_modules_repair_render_content__WEBPACK_IMPORTED_MODULE_18__["default"])();
 
 /***/ }),
 
@@ -268,7 +327,7 @@ const advicesBlock = () => {
         close = modal.querySelector('.close-consultation'),
         hidden = () => {
     modal.style.cssText = "visibility: hidden;";
-    document.body.style.cssText = `overflow: auto; height: auto;`;
+    document.body.removeAttribute('style'); //Clear styles
   },
         visible = () => {
     document.body.style.cssText = `overflow: hidden; height: 100%;`;
@@ -414,6 +473,199 @@ const form = () => {
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (form);
+
+/***/ }),
+
+/***/ "./script/modules/desing-pagination-boolet.js":
+/*!****************************************************!*\
+  !*** ./script/modules/desing-pagination-boolet.js ***!
+  \****************************************************/
+/*! exports provided: desingBoolet, desingSliders, desingPopup */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "desingBoolet", function() { return desingBoolet; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "desingSliders", function() { return desingSliders; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "desingPopup", function() { return desingPopup; });
+const desingBoolet = () => {
+  const designs = document.querySelector('#designs');
+  const designsBtn = designs.querySelectorAll('.designs-nav__item');
+  let designsSlide = designs.querySelector('.designs-slider').children;
+  designsSlide = Array.from(designsSlide);
+  const designsSlideBulet = designs.querySelectorAll('.preview-block');
+  const previewItemInner = designs.querySelectorAll('.preview-block__item-inner');
+  let designsHeight = designs.querySelector('.designs-slider-wrap').offsetHeight;
+  let slideActive = 0;
+  let buletItemAvtive = 0;
+  designsBtn.forEach((el, i) => {
+    el.addEventListener('click', () => {
+      slideActive = i;
+      render();
+    });
+  });
+  previewItemInner.forEach((el, itemBulet) => {
+    el.addEventListener(`click`, () => {
+      buletItemAvtive = itemBulet;
+      renderBulet();
+    });
+  });
+
+  const renderBulet = () => {
+    previewItemInner.forEach(el => {
+      el.classList.remove('preview_active');
+    });
+    previewItemInner[buletItemAvtive].classList.add('preview_active');
+    let arr = Array.from(designsSlideBulet[slideActive].children);
+    arr.forEach((el, i) => {
+      if (el.querySelector('.preview-block__item-inner').matches('.preview_active')) {
+        designsHeight = designsHeight = designs.querySelector('.designs-slider-wrap').offsetHeight;
+        buletItemAvtive = i;
+        designsSlide[slideActive].style.cssText = `
+        transform: translateY(-${designsHeight * i}px);
+        transition: 0.3s;`;
+      }
+    });
+  };
+
+  const render = () => {
+    buletItemAvtive = 0;
+    designsBtn.forEach(el => {
+      el.classList.remove('active');
+    });
+    designsBtn[slideActive].classList.add('active');
+    designsSlide.forEach(el => {
+      el.style.display = 'none';
+    });
+    designsSlide[slideActive].style.display = 'block';
+    designsSlideBulet.forEach(el => {
+      el.classList.remove('visible');
+    });
+    designsSlideBulet[slideActive].classList.add('visible');
+    designsSlideBulet[slideActive].querySelector('.preview-block__item-inner').classList.add('preview_active');
+    previewItemInner.forEach(el => {
+      el.classList.remove('preview_active');
+    });
+    previewItemInner[buletItemAvtive].classList.add('preview_active');
+  };
+};
+const desingSliders = obj => {
+  const design = document.querySelector(obj.block);
+  const designWrapper = design.querySelector(obj.wrapper);
+  const designBtn = design.querySelectorAll(obj.nav);
+  const designWrapperSlide = design.querySelector(obj.wrapperSlide);
+  let designSlides = Array.from(designWrapperSlide.children);
+  const designArrowLeft = design.querySelector(obj.arrowLeft);
+  const designArrowRight = design.querySelector(obj.arrowRight);
+  const sliderCountCurrent = design.querySelector(obj.sliderCountCurrent);
+  const sliderCountTotal = design.querySelector(obj.sliderCountTotal);
+  let designsHeight = designSlides[0].querySelector('img').clientHeight;
+  let countAll = designSlides[0].children.length;
+  let activeBtn = 0;
+  let activeSlides = 0;
+  let popupText = '';
+
+  if (obj.popupText) {
+    popupText = design.querySelectorAll(obj.popupText);
+    designWrapperSlide.style.display = 'flex';
+  }
+
+  if (obj.dispFlex) {
+    design.querySelector(obj.dispFlex).style.display = 'flex';
+  }
+
+  const arrowVisible = () => {
+    if (activeSlides >= countAll - 1) {
+      designArrowLeft.style.display = 'flex';
+      designArrowRight.style.display = 'none';
+    } else if (activeSlides <= 0) {
+      designArrowLeft.style.display = 'none';
+      designArrowRight.style.display = 'flex';
+    } else {
+      designArrowLeft.style.display = 'flex';
+      designArrowRight.style.display = 'flex';
+    }
+  };
+
+  designBtn.forEach((el, i) => {
+    el.addEventListener('click', () => {
+      activeBtn = i;
+      activeSlides = 0;
+      render();
+    });
+  });
+  designArrowRight.addEventListener('click', () => {
+    ++activeSlides;
+
+    if (activeSlides > countAll - 1) {
+      activeSlides = countAll - 1;
+      return;
+    }
+
+    render();
+  });
+  designArrowLeft.addEventListener('click', () => {
+    --activeSlides;
+
+    if (activeSlides < 0) {
+      activeSlides = 0;
+      return;
+    }
+
+    render();
+  });
+
+  const render = () => {
+    arrowVisible();
+    designSlides[activeBtn].style.cssText = `
+    transform: translateY(-${0}px);
+    transition: 0.3s;
+  `;
+    designBtn.forEach(el => {
+      el.classList.remove('active');
+    });
+    designBtn[activeBtn].classList.add('active');
+    designSlides.forEach(el => {
+      el.style.display = 'none';
+    });
+    designSlides[activeBtn].style.display = 'block';
+
+    if (obj.popupText) {
+      popupText.forEach(el => {
+        el.classList.remove(obj.popupTextActiveClass);
+      });
+      popupText[activeBtn].classList.add(obj.popupTextActiveClass);
+    }
+
+    designsHeight = designSlides[activeBtn].querySelector('img').clientHeight;
+    countAll = designSlides[activeBtn].children.length;
+    designSlides[activeBtn].style.cssText = `
+      transform: translateY(-${designsHeight * activeSlides}px);
+      transition: 0.3s;
+    `;
+    sliderCountCurrent.textContent = activeSlides + 1;
+    sliderCountTotal.textContent = countAll;
+  };
+
+  arrowVisible();
+};
+const desingPopup = () => {
+  const designs = document.querySelector('#designs');
+  const linkPopup = designs.querySelector('.link-list-designs a');
+  const popupDesing = document.querySelector('.popup-design');
+  const closrPopup = popupDesing.querySelector('.close.mobile-hide');
+  const closrPopupMobile = popupDesing.querySelector('.close.tablet-hide.desktop-hide');
+  linkPopup.addEventListener(`click`, evt => {
+    evt.preventDefault();
+    popupDesing.style.visibility = 'visible';
+  });
+  closrPopup.addEventListener(`click`, evt => {
+    popupDesing.style.visibility = 'hidden';
+  });
+  closrPopupMobile.addEventListener(`click`, evt => {
+    popupDesing.style.visibility = 'hidden';
+  });
+};
 
 /***/ }),
 
@@ -589,10 +841,10 @@ const eulaModal = () => {
       document.body.style.cssText = `overflow: hidden; height: 100%;`;
     });
   });
-  outOfModal.addEventListener(`click`, evt => {
-    if (evt.target.classList.contains('popup-privacy')) {
+  outOfModal.addEventListener(`click`, e => {
+    if (e.target.classList.contains('popup-privacy')) {
       outOfModal.style = "visibility: hidden;";
-      document.body.style.cssText = `overflow: auto; height: auto;`;
+      document.body.removeAttribute('style'); //Reset styles
     }
   });
   close.addEventListener(`click`, () => {
@@ -602,21 +854,6 @@ const eulaModal = () => {
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (eulaModal);
-
-/***/ }),
-
-/***/ "./script/modules/expandList.js":
-/*!**************************************!*\
-  !*** ./script/modules/expandList.js ***!
-  \**************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-const expandList = () => console.log('imported > 05 Expandable list module');
-
-/* harmony default export */ __webpack_exports__["default"] = (expandList);
 
 /***/ }),
 
@@ -779,7 +1016,6 @@ const formula = size => {
     formulaSlider.style.cssText = `
       display: flex;
       align-items: flex-start;
-      /*overflow: hidden;*/
       will-change: transform;
     `;
     formulaItem.forEach(element => {
@@ -1049,21 +1285,6 @@ const howWeWork = () => {
 
 /***/ }),
 
-/***/ "./script/modules/issuesBlock.js":
-/*!***************************************!*\
-  !*** ./script/modules/issuesBlock.js ***!
-  \***************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-const issuesBlock = () => console.log('imported > 14 Block with issues module');
-
-/* harmony default export */ __webpack_exports__["default"] = (issuesBlock);
-
-/***/ }),
-
 /***/ "./script/modules/mainNav.js":
 /*!***********************************!*\
   !*** ./script/modules/mainNav.js ***!
@@ -1089,10 +1310,12 @@ const styles = () => {
 
 const mainNav = () => {
   styles();
-  const open = document.querySelector('.menu'),
+  const open = document.querySelectorAll('.menu'),
         modal = document.querySelector('.popup-dialog-menu'),
         wrapper = document.querySelector('.popup-menu');
-  open.addEventListener('click', () => modal.classList.toggle('selected'));
+  open[1].style.cssText = `display: block;`;
+  open.forEach(element => element.addEventListener('click', () => modal.classList.toggle('selected'))); // open.addEventListener('click', () => modal.classList.toggle('selected'));
+
   modal.addEventListener('click', e => {
     if (e.target.classList.contains('close-menu')) {
       modal.classList.toggle('selected');
@@ -1229,6 +1452,121 @@ class ourPartners {
 
 /***/ }),
 
+/***/ "./script/modules/portfolioModal.js":
+/*!******************************************!*\
+  !*** ./script/modules/portfolioModal.js ***!
+  \******************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+const portfolioModal = () => {
+  const portfolio = document.querySelector('#portfolio');
+  const portfolioBtnDesctop = portfolio.querySelectorAll('.portfolio-slider.mobile-hide .portfolio-slider__slide-frame');
+  const portfolioBtnMobile = portfolio.querySelectorAll('.portfolio-slider-mobile.tablet-hide.desktop-hide .portfolio-slider__slide-frame');
+  const popupPortfolio = document.querySelector('.popup-portfolio');
+  const popupPortfolioClose = popupPortfolio.querySelector('.mobile-hide');
+  const popupPortfolioCloseMobile = popupPortfolio.querySelector('.close.tablet-hide.desktop-hide');
+  const popupPortfolioSlide = popupPortfolio.querySelector('.popup-portfolio-slider');
+  const popupPortfolioText = popupPortfolio.querySelectorAll('.popup-portfolio-text');
+  const mobileSlides = popupPortfolio.querySelectorAll('.popup-portfolio-slider__slide');
+  const countSlide = popupPortfolioText.length;
+  let slideHeight;
+  const textWrapper = popupPortfolio.querySelector('#popup-portfolio-counter');
+  const arrowRight = popupPortfolio.querySelector('#popup_portfolio_right');
+  const arrowLeft = popupPortfolio.querySelector('#popup_portfolio_left');
+  let slideActive = 0;
+  textWrapper.querySelector('.slider-counter-content__total').textContent = countSlide;
+
+  const render = () => {
+    slider();
+    textWrapper.querySelector('.slider-counter-content__current').textContent = slideActive + 1;
+    mobileSlides.forEach(el => {
+      el.style.display = "none";
+    });
+    mobileSlides[slideActive].style.display = "flex";
+  };
+
+  arrowRight.addEventListener('click', () => {
+    ++slideActive;
+
+    if (slideActive > countSlide - 1) {
+      slideActive = 0;
+    }
+
+    render();
+  });
+  arrowLeft.addEventListener('click', () => {
+    --slideActive;
+
+    if (slideActive < 0) {
+      slideActive = countSlide - 1;
+    }
+
+    render();
+  });
+  portfolioBtnMobile.forEach((element, i) => {
+    element.addEventListener('click', evt => {
+      popupPortfolio.style.visibility = 'visible';
+      render();
+    });
+  });
+  portfolioBtnDesctop.forEach((element, i) => {
+    element.addEventListener('click', evt => {
+      popupPortfolio.style.visibility = 'visible';
+      slideActive = i;
+      slideHeight = popupPortfolioSlide.querySelector('img').height;
+      render();
+      textWrapper.querySelector('.slider-counter-content__current').textContent = slideActive + 1;
+      textWrapper.style.top = `${slideHeight - 100}px`;
+      arrowRight.style.top = `${slideHeight / 2}px`;
+      arrowLeft.style.top = `${slideHeight / 2}px`;
+    });
+  });
+  popupPortfolio.addEventListener('click', e => {
+    ;
+
+    if (e.target.classList.contains('popup-portfolio')) {
+      // console.log(e.target);
+      popupPortfolio.style.cssText = "visibility: hidden;";
+    }
+  });
+  popupPortfolioCloseMobile.addEventListener(`click`, () => {
+    popupPortfolio.style.cssText = "visibility: hidden;";
+  });
+  popupPortfolioClose.addEventListener(`click`, () => {
+    popupPortfolio.style.cssText = "visibility: hidden;";
+  });
+  let windowWidth = window.innerWidth;
+  window.addEventListener(`resize`, () => {
+    windowWidth = window.innerWidth;
+    mobileSlides.forEach(el => {
+      el.style.display = "block";
+    });
+    slider();
+    render();
+  });
+
+  const slider = () => {
+    if (windowWidth <= 1024) {
+      mobileSlides.forEach(el => {
+        el.style.display = "none";
+      });
+      mobileSlides[slideActive].style.display = "block";
+    }
+
+    popupPortfolioText.forEach(el => {
+      el.style.display = "none";
+    });
+    popupPortfolioText[slideActive].style.display = "block";
+  };
+};
+
+/* harmony default export */ __webpack_exports__["default"] = (portfolioModal);
+
+/***/ }),
+
 /***/ "./script/modules/portfolioSlider.js":
 /*!*******************************************!*\
   !*** ./script/modules/portfolioSlider.js ***!
@@ -1238,7 +1576,150 @@ class ourPartners {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-const portfolioSlider = () => console.log('imported > 10 Portfolio block slider module');
+const portfolioSlider = () => {
+  const portfolio = document.querySelector('#portfolio');
+  const arrowRight = portfolio.querySelector('#portfolio-arrow_right');
+  const arrowLeft = portfolio.querySelector('#portfolio-arrow_left');
+  const slides = portfolio.querySelectorAll('.portfolio-slider__slide');
+  let slideWidth = slides[0].offsetWidth;
+  let SlideActive = 0;
+  let slideCount;
+  let windowWidth = window.innerWidth;
+  const mobileslide = portfolio.querySelectorAll('.portfolio-slider-mobile .portfolio-slider__slide-frame');
+  const mobileSliderTotal = portfolio.querySelector('.slider-counter-content__total');
+  mobileSliderTotal.textContent = mobileslide.length;
+  const mobileSliderCurrent = portfolio.querySelector('.slider-counter-content__current');
+  let mobileSlidActive = 0;
+  mobileSliderCurrent.textContent = mobileSlidActive + 1;
+  const mobileArrowRight = portfolio.querySelector('#portfolio-arrow-mobile_right');
+  const mobileArrowLeft = portfolio.querySelector('#portfolio-arrow-mobile_left');
+
+  const mobileArrowVisible = () => {
+    if (mobileSlidActive <= 0) {
+      mobileArrowLeft.style.display = 'none';
+      mobileArrowRight.style.display = 'flex';
+    } else if (mobileSlidActive >= mobileslide.length - 1) {
+      mobileArrowLeft.style.display = 'flex';
+      mobileArrowRight.style.display = 'none';
+    } else {
+      mobileArrowRight.style.display = 'flex';
+      mobileArrowLeft.style.display = 'flex';
+    }
+  };
+
+  mobileArrowVisible();
+
+  const mobileRender = () => {
+    mobileslide.forEach(element => {
+      element.style.display = 'none';
+    });
+    mobileslide[mobileSlidActive].style.display = 'flex';
+    mobileSliderCurrent.textContent = mobileSlidActive + 1;
+  };
+
+  mobileRender();
+  mobileArrowRight.addEventListener('click', () => {
+    ++mobileSlidActive;
+    mobileArrowVisible();
+
+    if (mobileSlidActive >= mobileslide.length) {
+      mobileSlidActive = mobileslide.length;
+      return;
+    }
+
+    mobileRender();
+  });
+  mobileArrowLeft.addEventListener('click', () => {
+    --mobileSlidActive;
+    mobileArrowVisible();
+
+    if (mobileSlidActive < 0) {
+      mobileSlidActive = 0;
+      return;
+    }
+
+    mobileRender();
+  });
+
+  const render = () => {
+    slides.forEach(element => {
+      element.style.cssText = `
+      position: relative;
+      left: -${SlideActive * slideWidth}px;
+      transition: 0.3s;
+      `;
+    });
+  };
+
+  render();
+
+  const arrowVisible = () => {
+    if (SlideActive <= 0) {
+      arrowLeft.style.display = 'none';
+      arrowRight.style.display = 'flex';
+    } else if (SlideActive >= slides.length - slideCount) {
+      arrowLeft.style.display = 'flex';
+      arrowRight.style.display = 'none';
+    } else {
+      arrowRight.style.display = 'flex';
+      arrowLeft.style.display = 'flex';
+    }
+  };
+
+  const resize = () => {
+    slideWidth = slides[0].offsetWidth;
+    SlideActive = 0;
+    mobileArrowRight.style.zIndex = '-1';
+    mobileArrowLeft.style.zIndex = '-1';
+    arrowRight.style.display = 'flex';
+    arrowLeft.style.display = 'flex';
+
+    if (windowWidth > 1024) {
+      slideCount = 3;
+      arrowVisible();
+    } else if (windowWidth <= 1024 && windowWidth > 900) {
+      slideCount = 2;
+      arrowVisible();
+    } else if (windowWidth <= 900 && windowWidth > 576) {
+      slideCount = 1;
+      arrowVisible();
+    } else {
+      mobileArrowRight.style.zIndex = '11111';
+      mobileArrowLeft.style.zIndex = '11111';
+      arrowRight.style.display = 'none';
+      arrowLeft.style.display = 'none';
+      render();
+    }
+  };
+
+  resize();
+  window.addEventListener(`resize`, () => {
+    windowWidth = window.innerWidth;
+    resize();
+  });
+  arrowRight.addEventListener('click', () => {
+    ++SlideActive;
+    arrowVisible();
+
+    if (SlideActive > slides.length - slideCount) {
+      SlideActive = slides.length - slideCount;
+      return;
+    }
+
+    render();
+  });
+  arrowLeft.addEventListener('click', () => {
+    --SlideActive;
+    arrowVisible();
+
+    if (SlideActive < 0) {
+      SlideActive = 0;
+      return;
+    }
+
+    render();
+  });
+};
 
 /* harmony default export */ __webpack_exports__["default"] = (portfolioSlider);
 
@@ -1288,6 +1769,166 @@ const regExpPhoneMask = () => {
 
 /***/ }),
 
+/***/ "./script/modules/repair-render-content.js":
+/*!*************************************************!*\
+  !*** ./script/modules/repair-render-content.js ***!
+  \*************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+const repairContent = () => {
+  const popup = document.querySelector('.popup.popup-repair-types');
+  let data = {};
+
+  const postData = () => {
+    return new Promise((resolve, reject) => {
+      const request = new XMLHttpRequest();
+      request.addEventListener('readystatechange', () => {
+        if (request.readyState !== 4) {
+          return;
+        }
+
+        if (request.status === 200) {
+          data = JSON.parse(request.responseText);
+          resolve(data);
+        } else {
+          reject(request.status);
+        }
+      });
+      request.open('GET', './db/db.json');
+      request.setRequestHeader('Content-type', 'application/json');
+      request.send();
+    });
+  };
+
+  let dataTemp = {};
+
+  const render = (container, template, place = `beforeend`) => {
+    container.insertAdjacentHTML(place, template);
+  };
+
+  const outputData = data => {
+    dataTemp = data;
+    clearFormBtn();
+    clearFormContent();
+    renderData(dataTemp);
+    renderBtn(dataTemp);
+    renderContext();
+  };
+
+  const errorData = () => {
+    const status = popup.querySelector('.popup-repair-types-content__head-title');
+    status.textContent = "Ошибка загрузки, повторите попытку позже!";
+    status.style.color = 'red';
+  };
+
+  postData().then(outputData).catch(errorData);
+
+  const renderBtn = dataTemp => {
+    const btnWrapper = popup.querySelector('.nav-list.nav-list-popup-repair');
+    dataTemp.forEach(el => {
+      if (el.title) {
+        render(btnWrapper, menuBtnTemplate(el.title));
+      }
+    });
+    btnEvent(dataTemp);
+  };
+
+  const btnEvent = dataTemp => {
+    const btn = popup.querySelectorAll('.popup-repair-types-nav__item');
+    btn.forEach(el => {
+      el.addEventListener('click', () => {
+        renderActiveBtn(btn, el, dataTemp);
+      });
+    });
+  };
+
+  const renderActiveBtn = (btn, activeBtn, dataTemp) => {
+    let headText = popup.querySelector('#switch-inner');
+    btn.forEach(el => {
+      el.classList.remove('active');
+    });
+    headText.textContent = activeBtn.textContent;
+    activeBtn.classList.add('active');
+    dataTemp.forEach(el => {
+      if (activeBtn.textContent === el.title) {
+        renderContext(el.priceList);
+      }
+    });
+  };
+
+  const renderContext = (data = 1) => {
+    if (data === 1) {
+      data = dataTemp[data].priceList;
+    }
+
+    let popupContentClear = popup.querySelectorAll('.popup-repair-types-content-table__list');
+    removeAll(popupContentClear);
+    const contentWrapper = popup.querySelector('.popup-repair-types-content-table');
+    render(contentWrapper, menuCardWrapperTemplate());
+    const wrapper = popup.querySelector('.popup-repair-types-content-table__list-wrapperPaste');
+    data.forEach(el => {
+      render(wrapper, menuCardTemplate(el));
+    });
+  };
+
+  const clearFormBtn = () => {
+    const btnRemove = popup.querySelectorAll('.popup-repair-types-nav__item');
+    removeAll(btnRemove);
+  };
+
+  const clearFormContent = () => {
+    const popupContent = popup.querySelectorAll('.popup-repair-types-content-table__list');
+    removeAll(popupContent);
+  };
+
+  const remove = element => {
+    element.remove();
+  };
+
+  const removeAll = element => {
+    element.forEach(el => {
+      remove(el);
+    });
+  };
+
+  const menuBtnTemplate = text => {
+    return `<button class="button_o popup-repair-types-nav__item">${text}</button>`;
+  };
+
+  const menuCardTemplate = el => {
+    return `
+    <tr class="mobile-row">
+      <td class="repair-types-name">${el.typeService}</td>
+      <td class="mobile-col-title tablet-hide desktop-hide">Ед.измерения</td>
+      <td class="mobile-col-title tablet-hide desktop-hide">Цена за ед.</td>
+      <td class="repair-types-value">${el.units}<sup>2</sup></td>
+      <td class="repair-types-value">${el.cost} руб.</td>
+    </tr>
+  `;
+  };
+
+  const menuCardWrapperTemplate = () => {
+    return `
+    <table class="popup-repair-types-content-table__list">
+      <tbody class="popup-repair-types-content-table__list-wrapperPaste">
+      </tbody>
+    </table>
+    `;
+  };
+
+  const renderData = dataTemp => {
+    const popupData = popup.querySelector('.popup-repair-types-content__head-date');
+    popupData.textContent = dataTemp[0].date;
+  };
+};
+
+/* harmony default export */ __webpack_exports__["default"] = (repairContent);
+
+/***/ }),
+
 /***/ "./script/modules/repairModal.js":
 /*!***************************************!*\
   !*** ./script/modules/repairModal.js ***!
@@ -1325,111 +1966,6 @@ const repairModal = () => {
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (repairModal);
-
-/***/ }),
-
-/***/ "./script/modules/repairModalContent.js":
-/*!**********************************************!*\
-  !*** ./script/modules/repairModalContent.js ***!
-  \**********************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-const repairModalContent = () => {
-  console.log('Repair Modal Content');
-};
-
-/* harmony default export */ __webpack_exports__["default"] = (repairModalContent); // class repairModalContent {
-//   constructor() {
-//     this.repairTypes = document.querySelector('#repair-types');
-//     this.repairItems = this.repairTypes.querySelectorAll('.repair-types-nav__item');
-//     this.repairSlideCollection = this.repairTypes.querySelector('.repair-types-slider').children;
-//     this.repairSlide = Array.from(this.repairSlideCollection);
-//     this.sliderCounterContentTotal = this.repairTypes.querySelector('.slider-counter-content__total');
-//     this.sliderCounterContentCurrent = this.repairTypes.querySelector('.slider-counter-content__current');
-//     this.arrowLeft = this.repairTypes.querySelector('#repair-types-arrow_left');
-//     this.arrowRight = this.repairTypes.querySelector('#repair-types-arrow_right');
-//     this.slideHeight = this.repairSlide[1].querySelector('img').height;
-//     this.navArrowLeft = this.repairTypes.querySelector('#nav-arrow-repair-left_base');
-//     this.navArrowRight = this.repairTypes.querySelector('#nav-arrow-repair-right_base');
-//     this.navListRepair = this.repairTypes.querySelector('.nav-list-repair');
-//     this.repairWidth = this.repairTypes.querySelector('.repair-types-nav').offsetWidth;
-//     this.navListRepairWidth = (this.navListRepair.offsetWidth - this.repairWidth) / this.navListRepair.children.length;
-//     this.base = 0;
-//     this.sliderCount = 0;
-//     this.slide = 0;
-//   }
-//   start() {
-//     this.eventListener();
-//     this.eventListenerSlides();
-//     this.eventListenerBase();
-//     this.sliderCounterContentTotal.textContent = this.repairSlide[0].children.length;
-//     this.sliderCounterContentCurrent.textContent = this.slide + 1;
-//   }
-//   eventListenerBase() {
-//     this.navArrowRight.addEventListener(`click`, () =>{    
-//       if (this.base >= this.navListRepair.children.length) return;
-//       ++this.base;
-//       this.navListRepairWidth = (this.navListRepair.offsetWidth - this.repairWidth) / this.navListRepair.children.length;
-//       this.navListRepair.style.transform = `translateX(-${this.navListRepairWidth * this.base}px)`;
-//     });
-//     this.navArrowLeft.addEventListener(`click`, () =>{
-//       if (this.base <= 0) return;
-//       --this.base;
-//       this.navListRepairWidth = (this.navListRepair.offsetWidth - this.repairWidth) / this.navListRepair.children.length;
-//       this.navListRepair.style.transform = `translateX(-${this.navListRepairWidth * this.base}px)`;
-//     });
-//   }
-//   eventListenerSlides() {
-//     this.arrowRight.addEventListener(`click`, () =>{
-//       ++this.slide;
-//       if (this.slide >= this.repairSlide[this.sliderCount].children.length) {
-//         this.slide = 0;
-//       }
-//       this.sliderCounterContentCurrent.textContent = this.slide + 1;
-//       this.repairSlide[this.sliderCount].style.transform = `translateY(-${this.slideHeight * this.slide}px)`;
-//     });
-//     this.arrowLeft.addEventListener(`click`, () =>{
-//       --this.slide;
-//       if (this.slide < 0) {
-//         this.slide = this.repairSlide[this.sliderCount].children.length - 1;
-//       }
-//       this.sliderCounterContentCurrent.textContent = this.slide + 1;
-//       this.repairSlide[this.sliderCount].style.transform = `translateY(-${this.slideHeight * this.slide}px)`;
-//     });
-//   }
-//   eventListener() {
-//       window.addEventListener(`resize`, () => {
-//         this.repairWidth = this.repairTypes.querySelector('.repair-types-nav').offsetWidth;
-//         this.navListRepairWidth = (this.navListRepair.offsetWidth - this.repairWidth) / this.navListRepair.children.length;
-//         this.navListRepair.style.transform = `translateX(-${0}px)`;
-//         this.base = 0;
-//       });
-//     this.repairItems.forEach((el, i) => {    
-//       el.addEventListener(`click`, () =>{
-//         this.base = 0;
-//         this.sliderCount = 0;
-//         this.slide = 0;
-//         this.render();
-//         el.classList.add('active');
-//         this.repairSlide[i].style.display = 'block';
-//         this.sliderCount = i;       
-//         this.sliderCounterContentTotal.textContent = this.repairSlide[i].children.length;
-//       });
-//     });
-//   }
-//   render() {
-//     this.repairItems.forEach((el, i) => {
-//       el.classList.remove('active');      
-//     });
-//     this.repairSlide.forEach((el, i) => {
-//       this.repairSlide[i].style.display = 'none';
-//     });
-//   }
-// }
-// export default repairModalContent;
 
 /***/ }),
 
@@ -1545,36 +2081,6 @@ class repairViews {
 
 /***/ }),
 
-/***/ "./script/modules/sliderModal.js":
-/*!***************************************!*\
-  !*** ./script/modules/sliderModal.js ***!
-  \***************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-const sliderModal = () => console.log('imported > 11 Modal Window Slider module');
-
-/* harmony default export */ __webpack_exports__["default"] = (sliderModal);
-
-/***/ }),
-
-/***/ "./script/modules/sliderTabSwitcher.js":
-/*!*********************************************!*\
-  !*** ./script/modules/sliderTabSwitcher.js ***!
-  \*********************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-const sliderTabSwitcher = () => console.log('imported > 16 Slider with switching tabs module');
-
-/* harmony default export */ __webpack_exports__["default"] = (sliderTabSwitcher);
-
-/***/ }),
-
 /***/ "./script/modules/smoothScroll.js":
 /*!****************************************!*\
   !*** ./script/modules/smoothScroll.js ***!
@@ -1614,18 +2120,76 @@ const smoothScroll = () => {
 
 /***/ }),
 
-/***/ "./script/modules/tabSlider.js":
-/*!*************************************!*\
-  !*** ./script/modules/tabSlider.js ***!
-  \*************************************/
+/***/ "./script/modules/tabs.js":
+/*!********************************!*\
+  !*** ./script/modules/tabs.js ***!
+  \********************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-const tabSlider = () => console.log('imported > 15 Tabs and slider module');
+const tabs = obj => {
+  const block = document.querySelector(obj.block);
+  const blockWrapper = block.querySelector(obj.blockWrapper);
+  const blockSlides = block.querySelector(obj.blockSlides);
+  const arrowRight = block.querySelector(obj.arrowRight);
+  const arrowLeft = block.querySelector(obj.arrowLeft);
+  const slidesAll = blockSlides.children.length;
+  let sizeWrapper = blockWrapper.clientWidth;
+  let sizeSlides = blockSlides.clientWidth;
+  let activeSlide = 0;
+  let count = (sizeSlides - sizeWrapper) / slidesAll;
+  window.addEventListener(`resize`, () => {
+    sizeWrapper = blockWrapper.clientWidth;
+    sizeSlides = blockSlides.clientWidth;
+    activeSlide = 0;
+    count = (sizeSlides - sizeWrapper) / slidesAll;
+    render();
+  });
+  arrowRight.addEventListener('click', () => {
+    ++activeSlide;
 
-/* harmony default export */ __webpack_exports__["default"] = (tabSlider);
+    if (activeSlide > slidesAll) {
+      activeSlide = slidesAll;
+      return;
+    }
+
+    render();
+  });
+  arrowLeft.addEventListener('click', () => {
+    --activeSlide;
+
+    if (activeSlide < 0) {
+      activeSlide = 0;
+      return;
+    }
+
+    render();
+  });
+
+  const render = () => {
+    visibleArrow();
+    blockSlides.style.transform = `translateX(-${count * activeSlide}px)`;
+  };
+
+  const visibleArrow = () => {
+    if (activeSlide === 0) {
+      arrowLeft.style.display = 'none';
+      arrowRight.style.display = 'flex';
+    } else if (activeSlide >= slidesAll) {
+      arrowLeft.style.display = 'flex';
+      arrowRight.style.display = 'none';
+    } else {
+      arrowRight.style.display = 'flex';
+      arrowLeft.style.display = 'flex';
+    }
+  };
+
+  visibleArrow();
+};
+
+/* harmony default export */ __webpack_exports__["default"] = (tabs);
 
 /***/ }),
 
@@ -1672,21 +2236,6 @@ const testimonialsBlock = () => {
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (testimonialsBlock);
-
-/***/ }),
-
-/***/ "./script/modules/uploadServicesData.js":
-/*!**********************************************!*\
-  !*** ./script/modules/uploadServicesData.js ***!
-  \**********************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-const uploadServicesData = () => console.log('imported > 23 Upload Services & Prices Data module');
-
-/* harmony default export */ __webpack_exports__["default"] = (uploadServicesData);
 
 /***/ })
 
