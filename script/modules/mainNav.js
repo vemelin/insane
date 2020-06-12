@@ -24,10 +24,11 @@ const mainNav = () => {
   open.forEach(element => element.addEventListener('click', () => modal.classList.toggle('selected')));
   // open.addEventListener('click', () => modal.classList.toggle('selected'));
 
-  modal.addEventListener('click', e => {
+  document.body.addEventListener('click', e => {
     if (e.target.classList.contains('close-menu')) {
       modal.classList.toggle('selected');
-    } else if (e.target.closest('.popup-dialog-menu')) {
+    } 
+    if (e.target.classList.contains('menu-link')) {
       modal.classList.toggle('selected');
     }
   });
@@ -35,25 +36,3 @@ const mainNav = () => {
 };
 
 export default mainNav;
-
-
-    
-// .visible {
-//   display: -webkit-box;
-//   display: -ms-flexbox;
-//   display: flex; }
-//   .visible-content {
-//     display: block; }
-//     @media (max-width: 1024px) and (min-width: 576px) {
-//       .visible-content {
-//         display: -webkit-box;
-//         display: -ms-flexbox;
-//         display: flex;
-//         -webkit-box-orient: horizontal;
-//         -webkit-box-direction: normal;
-//         -ms-flex-direction: row;
-//         flex-direction: row;
-//         -ms-flex-pack: distribute;
-//         justify-content: space-around; } }
-//     .visible-content-block {
-//       display: block; }
